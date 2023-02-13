@@ -1,3 +1,82 @@
 # GenshinSurvivor
 
 원신 서바이벌에 플레이 해주셔서 감사합니다!
+아래는 캐릭터 카드 설명입니다!
+
+## 모나
+![f0558b56f05c4b951300bda50e0f2b51f0a9cf1791637e3ab6c3218180655f2764b65acbf1345a462e9728dcecc88d084e6b4c94cd889ae5c73d0e848371d81169c618e3972c420ead84a52d627bd49d2f10a206b1dcd4651b5f3868352a8b33](https://user-images.githubusercontent.com/89596375/218507824-aeb6049a-3918-4f43-91b6-a65cecd83e4b.png)
+
+일반공격 : 광역공격합니다, 사거리가 증가합니다.
+최대레벨 : 전체 공격력 + 20
+
+## 케이아
+![e92d8f5e646761e483116ad50b07cb5a6d5637c4cf73af48e98cb7a9f8ef5554f843874b91690378ebf7443476973e5f049f889bd891d2b6bf9f4dd72414b9ff760ae6daf9a0ab3e26377d71b648582fb5aa4bdeaa0343771476227e6470ec55](https://user-images.githubusercontent.com/89596375/218507757-e00bdadb-a6a0-40f1-b8d3-a9d56a53af09.png)
+
+일반공격 : 얼음 기둥이 1개 추가됩니다.
+최대레벨 : 지속시간이 무한으로 증가합니다.
+
+## 디오나
+![df5f3455595cbe431288f2bdeeeaba0a4f248470d6808ff8e0ca411899012d6c3b0183d58cffd8b62758232a812ce081683aa2a155ae1af3b471b7bd83a64ce1980f01b39c716a047ff8f948174d8cc2cdf2b820836e8a43c176a20be57a1587](https://user-images.githubusercontent.com/89596375/218507598-c4140407-059a-4261-8ed8-b47f10d70599.png)
+
+일반공격 : 사거리 내 적 중 가장 먼 적을 공격합니다, 체력이 50 증가합니다.
+최대레벨 : 체력회복 + 5
+
+## 로자리아
+![46588c1b7a43800d6486ba0f4502677ab896dc83a3a597ee459cf96cfc9fda41753005cf9bcf6de90a95db0bfd421fb9fa34f8a206e644358cdcb2f6de9285736467e68439e99b0d3bf209850b42f66b7f712e8010abe639d06539663568c07389c70c4286ae6b](https://user-images.githubusercontent.com/89596375/218507490-73d59372-e718-4fe9-850c-5c4b7281e6d4.png)
+
+일반공격 : 치명타 확률 5%가 증가합니다.
+최대레벨 : 치명타 확률 10%가 증가합니다.
+
+## 진
+![5180b4d9f4ca97b3feb248f5984304427e3ad7e3d73b60a7ce26fb5ae893e0f9b1aa59d97961e310870856a73fb651c0c442e95dc273af848740406c4bb892c8ce41cc63972c9175cae89dbb1e932f2d120d6805e07e3bdfb2ff7200125d75fd](https://user-images.githubusercontent.com/89596375/218507362-91af458b-e576-47d2-a4c3-2043ac0d0f8a.png)
+
+일반공격 : 사거리 내 적 1명을 공격합니다. 이동속도가 증가합니다.
+최대레벨 : 전체 공격력 + 20
+
+## 다이루크
+![1088c1147a3313eb0a52503ba68c1f707fd9d9f10fef50711d47061940b73d1910b828ae0a80fa676444491734b678792fe01a7ea9fa162c4242a26c7a5dc46842c599f052e3fbbf782f93fb5bca166665f1c870e678710515d90effa553c06d](https://user-images.githubusercontent.com/89596375/218506875-085e616d-0ed5-4e21-8849-4f765370b4a8.png)
+
+일반공격 : 사거리 내 3명을 공격합니다.
+최대레벨 : 사거리 내 무작위 적을 향해 일직선 공격을 합니다.
+
+## 유라
+![46fad238b036454eaee4f4f65d48285fa973d0f3fe815ebb910c91685bc6947351731ee2392eb0138e15fc37e4a6d3372a29677f1658ff69f3a973c192e24a8ae797470d47670501de102485df074ed15f63d80904e2b480e24b18a55a78337f](https://user-images.githubusercontent.com/89596375/218506592-876d8cf6-ed10-4b99-b258-b0604d4a8860.png)
+
+일반공격 : 없습니다.
+최대레벨 : 강력한 광역공격을 합니다.
+
+## 피슬
+![3bf89355a366e416ef3048050a520426bc7ba19e612cba1042abc4657fce60ec6e653928ad0fef1a90bdae3868ebc2ac3f4ba6563c3b95eefc4b3afa5e1030a3bf56ee7501ba7be08eb19479bbcd183e92e12cfdd1f827daaef987c39652b479](https://user-images.githubusercontent.com/89596375/218503981-f34f1ca5-d3bf-410f-90f3-9b1714e5b17b.png)
+
+일반공격 : 맵 전체에서 가장 먼 적을 공격합니다.
+최대레벨 : 이중사격을 합니다.
+
+## 리사
+![3afb7820c5a781fc42e76a90763ab60611074f773a572e6ce530f5a04e7e45b235f275e5f5757d5bab1129aa42f0704cd7cf6f4cbbd5e43d28f8cd7b99f10bf881f493af4aa2cade1b776e9dc2d659a768c6307e8903f2875cecd7903a79d1bfbfae8e2dcb0f18](https://user-images.githubusercontent.com/89596375/218491923-756db2e8-1749-48e6-9219-72ccead0bc09.png)
+
+일반공격 : 광역공격합니다! 
+최대레벨 : 공격속도가 0.5초 감소합니다.
+
+## 바바라
+![9fc64e7f1387b7ce592a719e02566bd58e122a01afd701582e5e3b7fa4f45e370904769a912893c2d5babe1afdd7ddb8ce9c4be49193a9116f994efe0c476d0fec1084cd15abc74340fce9804a73befe21b85f24f869458082f8969792552b4f](https://user-images.githubusercontent.com/89596375/218488634-2fbb3d45-89cc-4238-8f04-a1617da7e205.png)
+
+일반공격 : 광역공격합니다! 
+최대레벨 : 체력회복 + 5
+
+## 앰버
+![20a25e4c048b4e8bf7fea174ebe559e853af69c139b122cf3ba5a9b938991e1efe9b67a49cffa63dd8a04c7a69cff7ca047bb963c96c2583b039fb37cc46e8067a392667dd9622704973da9cc32c2731ca886b4f9c9c18b1a9a6c624b9905491](https://user-images.githubusercontent.com/89596375/218488818-dd6e9d1b-e2d2-4cd2-a875-852d19046342.png)
+
+일반공격 : 사거리 내 가장 먼 적을 공격합니다.
+최대레벨 : 이중사격을 합니다.
+
+## 클레
+![3f87f494aa848f24a07537c30b6488501c6a4536fa6e71590be4c0f066b16a9b7951b52922cbe8cde1aa38aacb4b8a0d66041570bdce7174da4d3d6aee875a8f8b19a0bfdb86d64279076c3ab2d1dc1c2199087066e78667f8d0d8a8cc6eeec6](https://user-images.githubusercontent.com/89596375/218488851-a3bb2e96-9c4a-4568-ab01-6dfe39765ef8.png)
+
+일반공격 : 광역공격합니다.
+최대레벨 : 근처에 도도코를 설치합니다.
+
+## 베넷
+![95106a303d78b38d92611c34021349e0b3625f83d99c68b8f2e5aeb973b3919575948b1a5c77c391640e8d413603d1ab406f7196e2aa0682d68b37b0578b3278e0ae42f0f673011d051de4bcc541a2036526a933467b1a168fba2e9e289f859b](https://user-images.githubusercontent.com/89596375/218488950-c58d8c02-4dfd-42b5-bd5f-b6d27ad3d316.png)
+
+일반공격 : 없습니다!
+최대레벨 : 전체 공격력 + 50
